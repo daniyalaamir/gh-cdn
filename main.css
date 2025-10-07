@@ -189,8 +189,8 @@
 
 @font-face {
   font-family: next-sass;
-  src: url("../fonts/next-sass.eot?obdk3g");
-  src: url("../fonts/next-sass.eot?obdk3g#iefix") format("embedded-opentype"), url("../fonts/next-sass.ttf?obdk3g") format("truetype"), url("../fonts/next-sass.woff?obdk3g") format("woff"), url("../fonts/next-sass.svg?obdk3g#next-sass") format("svg");
+  src: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/fonts/next-sass.eot");
+  src: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/fonts/next-sass.eot") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/fonts/next-sass.ttf") format("truetype"), url("../fonts/next-sass.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/fonts/next-sass.svg") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1056,7 +1056,7 @@ body {
   content: var(--tw-content);
   width: calc(var(--spacing) * 5);
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/icons/checkmark-white.svg");
   content: var(--tw-content);
   content: var(--tw-content);
   position: relative;
@@ -1084,7 +1084,7 @@ body {
 
 .details-body ul li:where(.dark, .dark *):before {
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/icons/checkmark-white.svg");
   content: var(--tw-content);
 }
 
@@ -1114,7 +1114,7 @@ body {
   content: var(--tw-content);
   width: calc(var(--spacing) * 5);
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/icons/checkmark-white.svg");
   content: var(--tw-content);
   position: relative;
 }
@@ -1125,7 +1125,7 @@ body {
 
 .details-body ol li:first-child:where(.dark, .dark *):before {
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/icons/checkmark-white.svg");
   content: var(--tw-content);
 }
 
@@ -1149,7 +1149,7 @@ body {
   content: var(--tw-content);
   width: calc(var(--spacing) * 5);
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/icons/checkmark-white.svg");
   content: var(--tw-content);
   position: relative;
 }
@@ -1160,7 +1160,7 @@ body {
 
 .details-body ol li:nth-child(2):where(.dark, .dark *):before {
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/icons/checkmark-white.svg");
   content: var(--tw-content);
 }
 
@@ -1184,7 +1184,7 @@ body {
   content: var(--tw-content);
   width: calc(var(--spacing) * 5);
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/icons/checkmark-white.svg");
   content: var(--tw-content);
   position: relative;
 }
@@ -1195,7 +1195,7 @@ body {
 
 .details-body ol li:last-child:where(.dark, .dark *):before {
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/icons/checkmark-white.svg");
   content: var(--tw-content);
 }
 
@@ -9535,67 +9535,67 @@ body {
   }
 
   .bg-\[url\(\'\/images\/gradient\/gradient-4\.png\'\)\] {
-    background-image: url("../images/gradient/gradient-4.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/gradient/gradient-4.png");
   }
 
   .bg-\[url\(\'\/images\/gradient\/gradient-9\.png\'\)\] {
-    background-image: url("../images/gradient/gradient-9.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/gradient/gradient-9.png");
   }
 
   .bg-\[url\(\'\/images\/gradient\/gradient-39\.png\'\)\] {
-    background-image: url("../images/gradient/gradient-39.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/gradient/gradient-39.png");
   }
 
   .bg-\[url\(\'\/images\/home-page-2\/price-bg\.png\'\)\] {
-    background-image: url("../images/home-page-2/price-bg.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-2/price-bg.png");
   }
 
   .bg-\[url\(\'\/images\/home-page-2\/pricing-card-gradient\.jpg\'\)\] {
-    background-image: url("../images/home-page-2/pricing-card-gradient.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-2/pricing-card-gradient.jpg");
   }
 
   .bg-\[url\(\'\/images\/home-page-5\/hero-bg\.svg\'\)\] {
-    background-image: url("../images/home-page-5/hero-bg.svg");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-5/hero-bg.svg");
   }
 
   .bg-\[url\(\'\/images\/home-page-9\/hero-bg\.png\'\)\] {
-    background-image: url("../images/home-page-9/hero-bg.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-9/hero-bg.png");
   }
 
   .bg-\[url\(\'\/images\/home-page-14\/hero-bg\.svg\'\)\] {
-    background-image: url("../images/home-page-14/hero-bg.svg");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-14/hero-bg.svg");
   }
 
   .bg-\[url\(\'\/images\/home-page-16\/price-bg\.png\'\)\] {
-    background-image: url("../images/home-page-16/price-bg.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-16/price-bg.png");
   }
 
   .bg-\[url\(\'\/images\/home-page-18\/hero-bg\.png\'\)\] {
-    background-image: url("../images/home-page-18/hero-bg.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-18/hero-bg.png");
   }
 
   .bg-\[url\(\'\/images\/home-page-18\/hero-bottom-bg\.png\'\)\] {
-    background-image: url("../images/home-page-18/hero-bottom-bg.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-18/hero-bottom-bg.png");
   }
 
   .bg-\[url\(\'\/images\/home-page-23\/hero-container-bg\.svg\'\)\] {
-    background-image: url("../images/home-page-23/hero-container-bg.svg");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-23/hero-container-bg.svg");
   }
 
   .bg-\[url\(\'\/images\/home-page-24\/hero-bg\.png\'\)\] {
-    background-image: url("../images/home-page-24/hero-bg.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-24/hero-bg.png");
   }
 
   .bg-\[url\(\'\/images\/home-page-25\/hero-banner\.png\'\)\] {
-    background-image: url("../images/home-page-25/hero-banner.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-25/hero-banner.png");
   }
 
   .bg-\[url\(\'\/images\/home-page-26\/services-bg\.png\'\)\] {
-    background-image: url("../images/home-page-26/services-bg.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-26/services-bg.png");
   }
 
   .bg-\[url\(\'\/images\/home-page-28\/hero-bg\.svg\'\)\] {
-    background-image: url("../images/home-page-28/hero-bg.svg");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-28/hero-bg.svg");
   }
 
   .bg-\[url\(\'\/images\/home-page-29\/hero-bg\.svg\'\)\] {
@@ -9603,11 +9603,11 @@ body {
   }
 
   .bg-\[url\(\'\/images\/home-page-33\/hero-bg\.png\'\)\] {
-    background-image: url("../images/home-page-33/hero-bg.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-33/hero-bg.png");
   }
 
   .bg-\[url\(\'\/images\/home-page-34\/hero-bg\.jpg\'\)\] {
-    background-image: url("../images/home-page-34/hero-bg.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-34/hero-bg.jpg");
   }
 
   .from-\(image\:--color-gradient-5\) {
@@ -12103,7 +12103,7 @@ body {
 
   .before\:content-\[url\(\'\/images\/icons\/checkmark-white\.svg\'\)\]:before {
     content: var(--tw-content);
-    --tw-content: url("../images/icons/checkmark-white.svg");
+    --tw-content: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/icons/checkmark-white.svg");
     content: var(--tw-content);
   }
 
@@ -14169,7 +14169,7 @@ body {
     }
 
     .min-\[425px\]\:bg-\[url\(\'\/images\/home-page-26\/services-bg\.png\'\)\] {
-      background-image: url("../images/home-page-26/services-bg.png");
+      background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-26/services-bg.png");
     }
 
     .min-\[425px\]\:py-\[60px\] {
@@ -15429,7 +15429,7 @@ body {
     }
 
     .sm\:bg-\[url\(\'\/images\/authentication\/auth-bg\.jpg\'\)\] {
-      background-image: url("../images/authentication/auth-bg.jpg");
+      background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/authentication/auth-bg.jpg");
     }
 
     .sm\:object-cover {
@@ -17931,7 +17931,7 @@ body {
     }
 
     .md\:bg-\[url\(\'\/images\/home-page-23\/feature-v3-bg\.png\'\)\] {
-      background-image: url("../images/home-page-23/feature-v3-bg.png");
+      background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-23/feature-v3-bg.png");
     }
 
     .md\:bg-cover {
@@ -23920,19 +23920,19 @@ body {
   }
 
   .dark\:bg-\[url\(\'\/images\/home-page-2\/price-bg-dark\.png\'\)\]:where(.dark, .dark *) {
-    background-image: url("../images/home-page-2/price-bg-dark.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-2/price-bg-dark.png");
   }
 
   .dark\:bg-\[url\(\'\/images\/home-page-5\/hero-bg-dark\.svg\'\)\]:where(.dark, .dark *) {
-    background-image: url("../images/home-page-5/hero-bg-dark.svg");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-5/hero-bg-dark.svg");
   }
 
   .dark\:bg-\[url\(\'\/images\/home-page-14\/hero-bg-dark\.svg\'\)\]:where(.dark, .dark *) {
-    background-image: url("../images/home-page-14/hero-bg-dark.svg");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-14/hero-bg-dark.svg");
   }
 
   .dark\:bg-\[url\(\'\/images\/home-page-23\/hero-container-bg-dark\.svg\'\)\]:where(.dark, .dark *) {
-    background-image: url("../images/home-page-23/hero-container-bg-dark.svg");
+    background-image: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/home-page-23/hero-container-bg-dark.svg");
   }
 
   .dark\:\!from-background-5:where(.dark, .dark *) {
@@ -24477,7 +24477,7 @@ body {
 
   .dark\:before\:content-\[url\(\'\/images\/icons\/checkmark-white\.svg\'\)\]:where(.dark, .dark *):before {
     content: var(--tw-content);
-    --tw-content: url("../images/icons/checkmark-white.svg");
+    --tw-content: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/images/icons/checkmark-white.svg");
     content: var(--tw-content);
   }
 
