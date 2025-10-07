@@ -188,16 +188,17 @@
 }
 
 @font-face {
-  font-family: next-sass;
+  font-family: 'next-sass';
   src: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn@master/fonts/next-sass.eot");
   src: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn@master/fonts/next-sass.eot?#iefix") format("embedded-opentype"),
-       url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn@master/fonts/next-sass.ttf") format("truetype"),
        url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn@master/fonts/next-sass.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn@master/fonts/next-sass.ttf") format("truetype"),
        url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn@master/fonts/next-sass.svg#next-sass") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
+
 
 /* @font-face {
   font-family: next-sass;
