@@ -190,7 +190,7 @@
 @font-face {
   font-family: next-sass;
   src: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/fonts/next-sass.eot?obdk3g");
-  src: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/fonts/next-sass.eot?obdk3g#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/fonts/next-sass.ttf?obdk3g") format("truetype"), url("../fonts/next-sass.woff?obdk3g") format("woff"), url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/fonts/next-sass.svg?obdk3g#next-sass") format("svg");
+  src: url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/fonts/next-sass.eot?obdk3g#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/fonts/next-sass.ttf") format("truetype"), url("../fonts/next-sass.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/daniyalaamir/gh-cdn/fonts/next-sass.svg?obdk3g#next-sass") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
