@@ -1666,8 +1666,8 @@ body {
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-size: inherit;
-    font-weight: inherit;
+    font-size: inherit !important;
+    font-weight: inherit !important;
   }
 
   a {
@@ -1872,65 +1872,65 @@ body {
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-inter-tight);
-    color: var(--color-secondary);
+    font-family: var(--font-inter-tight) !important;
+    color: var(--color-secondary) !important;
   }
 
   :is(h1, h2, h3, h4, h5, h6):where(.dark, .dark *) {
-    color: var(--color-accent);
+    color: var(--color-accent) !important;
   }
 
   h1 {
-    font-size: var(--text-heading-4);
-    line-height: var(--tw-leading, var(--text-heading-4--line-height));
-    --tw-font-weight: var(--font-weight-medium);
-    font-weight: var(--font-weight-medium);
+    font-size: var(--text-heading-4) !important;
+    line-height: var(--tw-leading, var(--text-heading-4--line-height)) !important;
+    --tw-font-weight: var(--font-weight-medium) !important;
+    font-weight: var(--font-weight-medium) !important;
   }
 
   @media (min-width: 40rem) {
     h1 {
-      font-size: var(--text-heading-3);
-      line-height: var(--tw-leading, var(--text-heading-3--line-height));
+      font-size: var(--text-heading-3) !important;
+      line-height: var(--tw-leading, var(--text-heading-3--line-height)) !important;
     }
   }
 
   @media (min-width: 48rem) {
     h1 {
-      font-size: var(--text-heading-2);
-      line-height: var(--tw-leading, var(--text-heading-2--line-height));
+      font-size: var(--text-heading-2) !important;
+      line-height: var(--tw-leading, var(--text-heading-2--line-height)) !important;
     }
   }
 
   @media (min-width: 80rem) {
     h1 {
-      font-size: var(--text-heading-1);
-      line-height: var(--tw-leading, var(--text-heading-1--line-height));
+      font-size: var(--text-heading-1) !important;
+      line-height: var(--tw-leading, var(--text-heading-1--line-height)) !important;
     }
   }
 
   h2 {
-    font-size: var(--text-heading-5);
-    line-height: var(--tw-leading, var(--text-heading-5--line-height));
+    font-size: var(--text-heading-5) !important;
+    line-height: var(--tw-leading, var(--text-heading-5--line-height)) !important;
   }
 
   @media (min-width: 40rem) {
     h2 {
-      font-size: var(--text-heading-4);
-      line-height: var(--tw-leading, var(--text-heading-4--line-height));
+      font-size: var(--text-heading-4) !important;
+      line-height: var(--tw-leading, var(--text-heading-4--line-height)) !important;
     }
   }
 
   @media (min-width: 48rem) {
     h2 {
-      font-size: var(--text-heading-3);
-      line-height: var(--tw-leading, var(--text-heading-3--line-height));
+      font-size: var(--text-heading-3) !important;
+      line-height: var(--tw-leading, var(--text-heading-3--line-height)) !important;
     }
   }
 
   @media (min-width: 80rem) {
     h2 {
-      font-size: var(--text-heading-2);
-      line-height: var(--tw-leading, var(--text-heading-2--line-height));
+      font-size: var(--text-heading-2) !important;
+      line-height: var(--tw-leading, var(--text-heading-2--line-height)) !important;
     }
   }
 
