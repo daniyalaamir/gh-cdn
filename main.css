@@ -10848,6 +10848,10 @@ body {
     color: var(--color-ns-yellow);
   }
 
+  .text-ns-orange {
+    color: var(--color-ns-orange);
+  }
+
   .text-primary-50 {
     color: var(--color-primary-50);
   }
