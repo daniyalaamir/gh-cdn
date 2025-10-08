@@ -1296,6 +1296,7 @@ body {
   left: calc(var(--spacing) * 0);
   content: var(--tw-content);
   margin-right: calc(var(--spacing) * 2);
+  list-style-type: none !important;
   /* content: var(--tw-content);
   content: var(--tw-content);
   height: calc(var(--spacing) * 1.5);
