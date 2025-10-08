@@ -19,32 +19,32 @@
 <path d="M227.537 229.987C226.912 229.987 226.371 229.888 225.914 229.688C225.457 229.485 225.098 229.204 224.836 228.845C224.578 228.481 224.432 228.062 224.396 227.585H225.486C225.518 227.913 225.629 228.185 225.82 228.399C226.016 228.614 226.264 228.774 226.564 228.88C226.865 228.985 227.189 229.038 227.537 229.038C227.939 229.038 228.301 228.972 228.621 228.839C228.945 228.706 229.201 228.521 229.389 228.282C229.576 228.044 229.67 227.765 229.67 227.444C229.67 227.155 229.588 226.921 229.424 226.741C229.26 226.562 229.045 226.415 228.779 226.302C228.518 226.188 228.232 226.089 227.924 226.003L226.857 225.698C226.174 225.503 225.633 225.224 225.234 224.86C224.84 224.493 224.643 224.015 224.643 223.425C224.643 222.937 224.773 222.511 225.035 222.147C225.301 221.78 225.658 221.495 226.107 221.292C226.561 221.089 227.064 220.987 227.619 220.987C228.182 220.987 228.682 221.089 229.119 221.292C229.557 221.491 229.904 221.765 230.162 222.112C230.42 222.456 230.557 222.847 230.572 223.284H229.541C229.49 222.854 229.283 222.521 228.92 222.282C228.561 222.044 228.115 221.925 227.584 221.925C227.201 221.925 226.865 221.987 226.576 222.112C226.287 222.237 226.062 222.409 225.902 222.628C225.742 222.847 225.662 223.097 225.662 223.378C225.662 223.687 225.758 223.937 225.949 224.128C226.141 224.315 226.367 224.462 226.629 224.567C226.895 224.673 227.135 224.757 227.35 224.819L228.229 225.065C228.455 225.128 228.707 225.212 228.984 225.317C229.266 225.423 229.535 225.565 229.793 225.745C230.055 225.925 230.27 226.155 230.438 226.437C230.605 226.714 230.689 227.058 230.689 227.468C230.689 227.937 230.566 228.362 230.32 228.745C230.074 229.124 229.717 229.427 229.248 229.653C228.779 229.876 228.209 229.987 227.537 229.987Z" fill="#FCFCFC" fill-opacity="0.6"/>
 <defs>
 <linearGradient id="paint0_linear_1158_25926" x1="228.277" y1="185.34" x2="228.277" y2="212.936" gradientUnits="userSpaceOnUse">
-<stop stop-color="#864FFE"/>
-<stop offset="1" stop-color="#864FFE" stop-opacity="0.28"/>
+<stop stop-color="#5070ff"/>
+<stop offset="1" stop-color="#5070ff" stop-opacity="0.28"/>
 </linearGradient>
 <linearGradient id="paint1_linear_1158_25926" x1="194.847" y1="107.921" x2="194.847" y2="212.936" gradientUnits="userSpaceOnUse">
-<stop stop-color="#864FFE"/>
-<stop offset="1" stop-color="#864FFE" stop-opacity="0.28"/>
+<stop stop-color="#5070ff"/>
+<stop offset="1" stop-color="#5070ff" stop-opacity="0.28"/>
 </linearGradient>
 <linearGradient id="paint2_linear_1158_25926" x1="161.417" y1="133.216" x2="161.417" y2="212.936" gradientUnits="userSpaceOnUse">
-<stop stop-color="#864FFE"/>
-<stop offset="1" stop-color="#864FFE" stop-opacity="0.28"/>
+<stop stop-color="#5070ff"/>
+<stop offset="1" stop-color="#5070ff" stop-opacity="0.28"/>
 </linearGradient>
 <linearGradient id="paint3_linear_1158_25926" x1="127.988" y1="153.146" x2="127.988" y2="212.936" gradientUnits="userSpaceOnUse">
-<stop stop-color="#864FFE"/>
-<stop offset="1" stop-color="#864FFE" stop-opacity="0.28"/>
+<stop stop-color="#5070ff"/>
+<stop offset="1" stop-color="#5070ff" stop-opacity="0.28"/>
 </linearGradient>
 <linearGradient id="paint4_linear_1158_25926" x1="94.558" y1="117.886" x2="94.5581" y2="212.936" gradientUnits="userSpaceOnUse">
-<stop stop-color="#864FFE"/>
-<stop offset="1" stop-color="#864FFE" stop-opacity="0.28"/>
+<stop stop-color="#5070ff"/>
+<stop offset="1" stop-color="#5070ff" stop-opacity="0.28"/>
 </linearGradient>
 <linearGradient id="paint5_linear_1158_25926" x1="61.1284" y1="164.644" x2="61.1284" y2="212.936" gradientUnits="userSpaceOnUse">
-<stop stop-color="#864FFE"/>
-<stop offset="1" stop-color="#864FFE" stop-opacity="0.28"/>
+<stop stop-color="#5070ff"/>
+<stop offset="1" stop-color="#5070ff" stop-opacity="0.28"/>
 </linearGradient>
 <linearGradient id="paint6_linear_1158_25926" x1="27.6948" y1="144.714" x2="27.6948" y2="212.936" gradientUnits="userSpaceOnUse">
-<stop stop-color="#864FFE"/>
-<stop offset="1" stop-color="#864FFE" stop-opacity="0.28"/>
+<stop stop-color="#5070ff"/>
+<stop offset="1" stop-color="#5070ff" stop-opacity="0.28"/>
 </linearGradient>
 </defs>
 </svg>

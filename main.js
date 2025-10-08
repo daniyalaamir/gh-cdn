@@ -1121,7 +1121,7 @@ const tabAnimation = {
       y: 20
     },
     mobile: {
-      activeBg: "#864ffe",
+      activeBg: "#5070ff",
       activeColor: "white",
       activeBorder: "#5a19be",
       scale: 1.05
@@ -1407,7 +1407,7 @@ const tabFilter = {
         const isActive = index === activeIndex;
         if (isActive) {
           btn.classList.add("mobile-filter-active");
-          btn.style.backgroundColor = "#864ffe";
+          btn.style.backgroundColor = "#5070ff";
           btn.style.color = "white";
           btn.style.borderColor = "#5a19be";
           btn.style.transform = "scale(1.05)";

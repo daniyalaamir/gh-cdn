@@ -74,12 +74,12 @@
 :root, :host {
   --font-inter-tight: "Inter Tight", sans-serif;
   --color-primary-50: #f4f2fe;
-  --color-primary-100: #ece8ff;
-  --color-primary-200: #dcd4ff;
-  --color-primary-300: #c3b1ff;
-  --color-primary-400: #a585ff;
-  --color-primary-500: #864ffe;
-  --color-primary-600: #7c31f6;
+  --color-primary-100: #e5ecff;
+  --color-primary-200: #c2d0ff;
+  --color-primary-300: #99afff;
+  --color-primary-400: #738eff;
+  --color-primary-500: #5070ff;
+  --color-primary-600: #3d5afc;
   --color-secondary: #1a1a1c;
   --color-accent: #fcfcfc;
   --color-background-1: #fcfcfd;
@@ -12754,7 +12754,7 @@ body {
     }
 
     .hover\:shadow-primary-500\/20:hover {
-      --tw-shadow-color: #864ffe33;
+      --tw-shadow-color: #5070ff33;
     }
 
     @supports (color: color-mix(in lab, red, red)) {
@@ -12844,7 +12844,7 @@ body {
   }
 
   .focus\:ring-primary-500\/20:focus {
-    --tw-ring-color: #864ffe33;
+    --tw-ring-color: #5070ff33;
   }
 
   @supports (color: color-mix(in lab, red, red)) {

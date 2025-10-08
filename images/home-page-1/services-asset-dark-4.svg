@@ -17,9 +17,9 @@
 <path d="M310 17C297.913 43 286.515 76.1915 262.256 76.1915C232.65 76.9885 226.598 47.4255 201.215 49.0851C158.305 49.0851 174.019 121 116 121" stroke="url(#paint0_linear_931_10970)" stroke-width="2"/>
 <defs>
 <linearGradient id="paint0_linear_931_10970" x1="310" y1="17" x2="147.359" y2="157.341" gradientUnits="userSpaceOnUse">
-<stop offset="0.125" stop-color="#864FFE" stop-opacity="0"/>
-<stop offset="0.488932" stop-color="#864FFE"/>
-<stop offset="1" stop-color="#864FFE" stop-opacity="0"/>
+<stop offset="0.125" stop-color="#5070ff" stop-opacity="0"/>
+<stop offset="0.488932" stop-color="#5070ff"/>
+<stop offset="1" stop-color="#5070ff" stop-opacity="0"/>
 </linearGradient>
 </defs>
 </svg>
