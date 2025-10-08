@@ -1296,7 +1296,7 @@ body {
   left: calc(var(--spacing) * 0);
   content: var(--tw-content);
   margin-right: calc(var(--spacing) * 2);
-  content: var(--tw-content);
+  /* content: var(--tw-content);
   content: var(--tw-content);
   height: calc(var(--spacing) * 1.5);
   content: var(--tw-content);
@@ -1312,7 +1312,7 @@ body {
   content: var(--tw-content);
   border-radius: 3.40282e38px;
   display: inline-block;
-  position: relative;
+  position: relative; */
 }
 
 :is(.refund-policy, .process-steps, .privacy-policy, .changelog, .documentation, .analytics) ul li:where(.dark, .dark *):before {
