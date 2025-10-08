@@ -9260,6 +9260,10 @@ body {
     background-color: var(--color-ns-yellow);
   }
 
+  .bg-ns-orange {
+    background-color: var(--color-ns-orange);
+  }
+
   .bg-primary-100 {
     background-color: var(--color-primary-100);
   }
